@@ -1,0 +1,19 @@
+a{
+	color:white !important;
+}
+
+p{
+	text-align: justify;
+}
+
+a:hover{
+	color: #d3b5d6 !important;
+}
+@media only screen and (max-width:768px){
+	#div{
+		width: 90% !important;
+	}
+	
+	
+}
+
